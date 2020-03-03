@@ -1,0 +1,185 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: 1px solid orange;
+}
+
+body {
+	background: #262626;
+	color: #d4d4d4;
+	font-size: 14px;
+	font-family: Verdana;
+}
+
+.sait {
+	width: 1280px;
+	margin: 0 auto;
+}
+
+header {
+	padding: 55px 160px 120px 160px;
+}
+
+nav ul {
+	list-style: none;
+	display: flex;
+	align-items: center;
+}
+
+nav ul li {
+	margin-right: 30px;
+}
+
+.logo {
+	margin-right: 70px;
+	width: 60px;
+	height: 60px;
+}
+
+.mail {
+	width: 17px;
+	height: 12px;
+	margin-right: 25px;
+	margin-left: 0;
+}
+
+.phone {
+	width: 17px;
+	height: 17px;
+	margin: 0;
+}
+
+nav {
+	display: flex;
+	justify-content: space-between;
+}
+
+a {
+	color: #d4d4d4;
+	text-decoration: none;
+	font-size: 14px;
+	font-family: Verdana;
+}
+
+a:hover {
+	color: #ffffff;
+}
+
+.main {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 36px;
+}
+
+.left {
+	margin-left: 130px;
+}
+
+.left h1 {
+	margin-bottom: 60px;
+}
+
+.left p {
+	margin-bottom: 60px;
+}
+
+.right {
+	width: 438px;
+	height: 437px;
+	margin-left: 85px;
+}
+
+h1 {
+	color: #ffffff;
+	font-family: "Courier New";
+	font-size: 45px;
+}
+
+.button {
+	width: 240px;
+	height: 50px;
+	background-color: #ffcb06;
+	border: 0px solid #ffcb06;
+	font-size: 14px;
+	font-family: Verdana;
+	font-weight: bold;
+	border-radius: 30px;
+	display: flex;
+	justify-content: space-between;
+	padding: 15px 25px;
+}
+
+.button:hover {
+	background: #d4d4d4;
+	color: #ffffff;
+}
+
+.advantages {
+	background: #131313;
+	padding: 80px 160px;
+	display: flex;
+	justify-content: space-between;
+}
+
+
+.advantages p {
+	margin-top: 40px;
+}
+
+.icon {
+	width: 60px;
+	height: 65px;
+}
+
+.content{
+	padding: 80px 160px;
+	background: #ffffff;
+	display:flex;
+	justify-content;space-between;
+	
+}
+
+
+.left{
+	width:440px;
+}
+.right{
+	width:440px
+}
+.content h1{
+	color:#131313;
+	font-family:"Courier New";
+	font-family:24px;
+}
+.content p{
+	color:#222222;
+	font-family:verdana;
+	font-size:14px;
+}
+.var{
+	margin-bottom:60px;
+}
+.content{ 
+margin-bottom:30px;
+}
+.var1{
+	margin:0;
+	margin-bottom:80px;
+	margin-bottom:35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
